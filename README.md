@@ -39,17 +39,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/slvr2">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slvr2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slvr2&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
+  <a href="https://github.com/slvr2"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slvr2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/slvr2"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slvr2&layout=compact&langs_count=8&theme=dracula"/></a>
 </p>
 
 <!-- Contact -->
 <div align="left">
-<h3> Conecte-se comigo <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a> </h3> 
+<h3>Conecte-se comigo <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a></h3>
+         
 <p align="left">
-  <a href="www.linkedin.com/in/gustavo-silveira-b81761229"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href="https://www.instagram.com/sl_vr2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-  <a href="mailto:silveira.urp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/gustavo-silveira-b81761229"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:silveira.urp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sl_vr2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
