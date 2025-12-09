@@ -40,8 +40,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/slvr2"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slvr2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/slvr2"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slvr2&layout=compact&langs_count=8&theme=dracula"/></a>
+  <a href="https://github.com/slvr2"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slvr2&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/slvr2"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slvr2&layout=compact&langs_count=8&theme=monokai"/></a>
 </p>
 
 <!-- Contact -->
