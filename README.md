@@ -11,10 +11,11 @@
     <a href="https://github.com/slvr2?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/slvr2?color=4C1&logo=github"></a>
 </p>
 
-* I am a Software Engineer at Samsung. My skills at work include Java, Spring, gRPC.
-* I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
-* I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
-* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
+* Sou dedicado à criação de código limpo e com atenção aos detalhes, prezando por organização e clareza em cada etapa do desenvolvimento.
+
+* Trabalho com tecnologias como AWS, Python, JavaScript, Docker, Git, SQL, HTML e CSS, explorando continuamente novas formas de aprimorar meu fluxo e minhas soluções.
+
+* Busco aprimorar minhas habilidades diariamente, criando soluções que conciliem boa engenharia, usabilidade e impacto real no dia a dia das pessoas.
 
 ***
 
